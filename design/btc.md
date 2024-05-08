@@ -1,0 +1,5 @@
+[awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin)    
+[bitcoinj](https://github.com/bitcoinj)   
+[比特币核心技术解读](https://guide.pseudoyu.com/zh/docs/bitcoin/blockchain_bitcoin_basic/)    
+[比特币 —— 初露锋芒的区块链](https://yeasy.gitbook.io/blockchain_guide/06_bitcoin)        
+[]()     
