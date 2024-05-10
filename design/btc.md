@@ -20,6 +20,14 @@
 []()  
 
 
+
+
+
+[比特币生态全览：详解当前主流BTC协议及L2扩展方案](https://www.theblockbeats.info/news/49055?t=binance)      
+[全网最全的布局符文所需知的所有步骤](https://www.binance.com/zh-CN/square/post/6810053580017)     
+
+
+
 # bitcoin scripts
 [比特币脚本原理](https://happypeter.github.io/binfo/bitcoin-scripts)    
 [BTC系列之账户脚本](https://fpchen.readthedocs.io/zh/latest/note/BlockChain/btc/btc-address-script.html#)   
@@ -42,7 +50,14 @@
 [比特币脚本简介](https://academy.binance.com/zh/articles/an-introduction-to-bitcoin-script)    
 
 
-## Taproot
+## SegWit
+[关于隔离见证（SegWit）的初学者指南](https://academy.binance.com/zh/articles/a-beginners-guide-to-segretated-witness-segwit)     
+[BTC系列之隔离见证](https://fpchen.readthedocs.io/zh/latest/note/BlockChain/btc/btc-segwit.html)    
+[]()  
+[]()   
+
+
+### Taproot
 [Taproot](https://bitcoinops.org/en/topics/taproot/)  
 []()  
 []()   
@@ -51,20 +66,29 @@
 
 
 ## Rune
+[runes](https://ordinals.com/runes)  
+[ordinals](https://github.com/ordinals)   
 [runebtc](https://www.runebtc.xyz/)     
-[bitcoinrune](https://docs.bitcoinrune.xyz/)       
-[]()  
-[]()   
+[bitcoinrune doc](https://docs.bitcoinrune.xyz/)       
+[ordinals doc](https://docs.ordinals.com/)  
+  
+[BTC减半在即，解读Runes协议的底层设计机制与局限](https://learnblockchain.cn/article/7886)        
+[解读比特币Oridinals协议与BRC20标准 原理创新与局限](https://mp.weixin.qq.com/s/EN8ZdiomQVUQ4WBRZ4GqKA)           
+[Ordinal铭文协议的原理与技术细节讨论](https://learnblockchain.cn/article/7364)         
+[比特币 Ordinals 协议浅析](https://learnblockchain.cn/article/7139)      
+  
 
 
 
-### SegWit
-[关于隔离见证（SegWit）的初学者指南](https://academy.binance.com/zh/articles/a-beginners-guide-to-segretated-witness-segwit)     
-[BTC系列之隔离见证](https://fpchen.readthedocs.io/zh/latest/note/BlockChain/btc/btc-segwit.html)    
-[]()  
-[]()   
+
+
 
 
 # BIPS
+[]()  
+[]()   
+
+
+# BEVM
 []()  
 []()   
