@@ -22,13 +22,17 @@
 
 
 
-
+[BTC生态的现状总结及未来发展](https://learnblockchain.cn/article/7302)    
 [比特币生态全览：详解当前主流BTC协议及L2扩展方案](https://www.theblockbeats.info/news/49055?t=binance)      
-[全网最全的布局符文所需知的所有步骤](https://www.binance.com/zh-CN/square/post/6810053580017)     
+[全网最全的布局符文所需知的所有步骤](https://www.binance.com/zh-CN/square/post/6810053580017)   
+
+
+[链下转移：比特币资产协议的演进之路](https://learnblockchain.cn/article/7442)     
 
 
 
 # bitcoin scripts
+[chainx-technical-archive](https://github.com/Donaldhan/chainx-technical-archive)   
 [比特币脚本原理](https://happypeter.github.io/binfo/bitcoin-scripts)    
 [BTC系列之账户脚本](https://fpchen.readthedocs.io/zh/latest/note/BlockChain/btc/btc-address-script.html#)   
 [TC系列之账户脚本 github ](https://github.com/Donaldhan/Note/tree/master/source/note/BlockChain/btc)   
@@ -53,19 +57,25 @@
 ## SegWit
 [关于隔离见证（SegWit）的初学者指南](https://academy.binance.com/zh/articles/a-beginners-guide-to-segretated-witness-segwit)     
 [BTC系列之隔离见证](https://fpchen.readthedocs.io/zh/latest/note/BlockChain/btc/btc-segwit.html)    
-[]()  
+[从SegWit V0过渡到SegWit V1]()  
 []()   
 
 
-### Taproot
-[Taproot](https://bitcoinops.org/en/topics/taproot/)  
-[]()  
-[]()   
+## Taproot
+[Taproot](https://bitcoinops.org/en/topics/taproot/)     
+[干货 | 比特币升级提案 Taproot 技术解读](https://learnblockchain.cn/article/3050)     
+[详解闪电网络的Taproot Assets协议：一个更加面向机构的比特币网络资产发行协议](https://www.bitget.fit/zh-CN/news/detail/12560603822363)     
+
+[chainx-technical-archive](https://github.com/chainx-org/chainx-technical-archive)   
+
+
+### Ordinals 
+[深度解析比特币NFT协议Ordinals：技术实现](https://medium.com/@quentangle/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E6%AF%94%E7%89%B9%E5%B8%81nft%E5%8D%8F%E8%AE%AEordinals-%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0-3c954a941f32)   
+[万字雄文解读Bitcoin Ordinals](https://www.theblockbeats.info/news/35749)     
 
 
 
-
-## Rune
+#### Rune
 [runes](https://ordinals.com/runes)  
 [ordinals](https://github.com/ordinals)   
 [runebtc](https://www.runebtc.xyz/)     
@@ -76,19 +86,49 @@
 [解读比特币Oridinals协议与BRC20标准 原理创新与局限](https://mp.weixin.qq.com/s/EN8ZdiomQVUQ4WBRZ4GqKA)           
 [Ordinal铭文协议的原理与技术细节讨论](https://learnblockchain.cn/article/7364)         
 [比特币 Ordinals 协议浅析](https://learnblockchain.cn/article/7139)      
-  
+[源码讲解】Ordinals Inscription铸造过程解析](https://learnblockchain.cn/article/5782)     
+[比特币 Ordinals 铭文与 BRC-20：潘多拉的魔盒](https://learnblockchain.cn/article/8094)    
+[Runes（符文）新手指南](https://learnblockchain.cn/article/7977)     
+[]()   
+[]()   
+[]()   
+[]()   
+
+#### tip
+* 实验：学习的最佳方式是实践。在Runes上线之前，你可以在 Signet、Testnet或 Xverse 上进行实验，以便在它们可用时做好准备；
 
 
+#### BRC20
+#### Pipe
 
+
+### Atomicals
 
 
 
 
 # BIPS
+[bips](https://github.com/bitcoin/bips)     
+[]()   
+
+# BTC L2
+[chainx-technical-archive](https://github.com/Donaldhan/chainx-technical-archive)   
+
+[RGB、BitVM、Nostr 的详解入门](https://www.chaincatcher.com/article/2112839)      
+[盘点 BTC 衍生协议：谁是最具潜力的 alpha](https://learnblockchain.cn/article/7297)     
+[比 Taproot 更有用？深入探讨 Drivechain 的工作原理和技术特点](https://layertwolabsasia.medium.com/taproot-ordinals-brc20-drivechain-06242023-a046d5eee622)    
 []()  
 []()   
 
 
-# BEVM
+## RGB
+
+## BEVM
 []()  
 []()   
+
+## Nostr 
+
+## 侧链
+
+## 闪电网络
