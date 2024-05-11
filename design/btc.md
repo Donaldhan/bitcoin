@@ -30,6 +30,10 @@
 [链下转移：比特币资产协议的演进之路](https://learnblockchain.cn/article/7442)     
 
 
+# BIPS
+[bips](https://github.com/bitcoin/bips)     
+[]()   
+
 
 # bitcoin scripts
 [chainx-technical-archive](https://github.com/Donaldhan/chainx-technical-archive)   
@@ -74,6 +78,9 @@
 [万字雄文解读Bitcoin Ordinals](https://www.theblockbeats.info/news/35749)     
 
 
+<!-- TODO -->
+[Ordinal NFT实现原理及Bitcoin Regtest测试网Mint教程](https://learnblockchain.cn/article/5376)     
+
 
 #### Rune
 [runes](https://ordinals.com/runes)  
@@ -95,6 +102,7 @@
 []()   
 
 #### tip
+<!-- TODO -->
 * 实验：学习的最佳方式是实践。在Runes上线之前，你可以在 Signet、Testnet或 Xverse 上进行实验，以便在它们可用时做好准备；
 
 
@@ -105,11 +113,11 @@
 ### Atomicals
 
 
+## signet
+<!-- TODO -->
+[signet](https://bitcoinops.org/en/topics/signet/)     
 
 
-# BIPS
-[bips](https://github.com/bitcoin/bips)     
-[]()   
 
 # BTC L2
 [chainx-technical-archive](https://github.com/Donaldhan/chainx-technical-archive)   
@@ -122,6 +130,7 @@
 
 
 ## RGB
+
 
 ## BEVM
 []()  
