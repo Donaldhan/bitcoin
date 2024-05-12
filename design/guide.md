@@ -27,4 +27,9 @@
 [blockchair testnet exploer](https://blockchair.com/zh/bitcoin/testnet)   
 [比特币私钥](https://aandds.com/blog/bitcoin-key-addr.html#f405423b)      
 []()   
-[]()   
+[]()
+
+
+[Bitcoin is Time](https://www.swanbitcoin.com/bitcoin-is-time/)    
+[比特币就是时钟](https://www.btcstudy.org/2021/09/29/bitcoin-is-time/)      
+[]()
