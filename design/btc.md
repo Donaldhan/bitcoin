@@ -1,5 +1,6 @@
  # bitcoin
 [bitcoinj](https://github.com/bitcoinj)   
+[rust-bitcoin](https://github.com/rust-bitcoin)     
 [bmoney](http://www.weidai.com/bmoney.txt)   
 [Secure High-Rate Transaction Processing in bitcoin](https://github.com/Donaldhan/Blockchain/blob/master/Secure%20High-Rate%20Transaction%20Processing%20in%20bitcoin.pdf)    
 [Scaling Nakamoto Consensus to Thousands of Transactions per Second]() 
@@ -74,6 +75,13 @@
 
 
 ### Ordinals 
+[ord](https://github.com/ordinals/ord)  
+[ordinalswallet](https://ordinalswallet.com/)    
+[rune](https://github.com/ordinals-wallet/rune)     
+[ordinals-collections](https://github.com/ordinals-wallet/ordinals-collections)  
+   
+
+
 [深度解析比特币NFT协议Ordinals：技术实现](https://medium.com/@quentangle/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E6%AF%94%E7%89%B9%E5%B8%81nft%E5%8D%8F%E8%AE%AEordinals-%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0-3c954a941f32)   
 [万字雄文解读Bitcoin Ordinals](https://www.theblockbeats.info/news/35749)     
 
@@ -82,12 +90,19 @@
 [Ordinal NFT实现原理及Bitcoin Regtest测试网Mint教程](https://learnblockchain.cn/article/5376)     
 
 
+
+
+
 #### Rune
 [runes](https://ordinals.com/runes)  
+[ordinals doc](https://docs.ordinals.com/)  
 [ordinals](https://github.com/ordinals)   
 [runebtc](https://www.runebtc.xyz/)     
-[bitcoinrune doc](https://docs.bitcoinrune.xyz/)       
-[ordinals doc](https://docs.ordinals.com/)  
+[bitcoinrune doc](https://docs.bitcoinrune.xyz/)         
+[signet ordinals](https://signet.ordinals.com/)  
+
+
+
   
 [BTC减半在即，解读Runes协议的底层设计机制与局限](https://learnblockchain.cn/article/7886)        
 [解读比特币Oridinals协议与BRC20标准 原理创新与局限](https://mp.weixin.qq.com/s/EN8ZdiomQVUQ4WBRZ4GqKA)           
@@ -111,6 +126,9 @@
 
 
 ### Atomicals
+[atomicalmarket](https://atomicalmarket.com/)     
+[satsx atomicals](https://satsx.gitbook.io/satsx/inscribe/atomicals)  
+
 
 
 ## signet

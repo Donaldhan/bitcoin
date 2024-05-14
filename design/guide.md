@@ -30,6 +30,9 @@
 []()
 
 
-[Bitcoin is Time](https://www.swanbitcoin.com/bitcoin-is-time/)    
+[Bitcoin is Time](https://www.swanbitcoin.com/bitcoin-is-time/)       
 [比特币就是时钟](https://www.btcstudy.org/2021/09/29/bitcoin-is-time/)      
 []()
+
+
+[Submarine swaps](https://bitcoinops.org/en/topics/submarine-swaps/)      
