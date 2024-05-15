@@ -14,7 +14,7 @@
 
 
 
-# Ordinal Theory Overview
+# 1.Ordinal Theory Overview
 
 ## Ordinal numbers have a few different representations:
 
@@ -45,7 +45,7 @@ This gives us the following rarity levels:
 * mythic: The first sat of the genesis block
 
 
-# Inscriptions
+# 3.Inscriptions
 
 Inscription content is entirely on-chain, stored in taproot script-path spend scripts. Taproot scripts have very few restrictions on their content, and additionally receive the witness discount, making inscription content storage relatively economical.
 
@@ -83,7 +83,7 @@ OP_PUSH 5
 OP_PUSH 11
 ```
 
-# Runes
+# 4.Runes
 
 ## Runes Does Not Have a Specification
 ## Runestones
@@ -154,6 +154,56 @@ Runestones are deciphered from transactions with the following steps:
 3. Decode a sequence 128-bit LEB128 integers from the payload buffer.
 4. Parse the sequence of integers into an untyped message.
 5. Parse the untyped message into a runestone.
+
+
+
+
+# 8. Guides
+8.1. Explorer
+8.2. Wallet
+8.3. Batch Inscribing
+8.4. Collecting
+8.4.1. Sparrow Wallet
+8.5. Moderation
+8.6. Reindexing
+8.7. Sat Hunting
+8.8. Settings
+8.9. Teleburning
+## 8.10. Testing
+
+Test Networks
+Ord can be tested using the following flags to specify the test network. For more information on running Bitcoin Core for testing, see Bitcoin's developer documentation.
+
+Most ord commands in wallet and explorer can be run with the following network flags:
+
+Network	Flag
+
+```
+Testnet	--testnet or -t
+Signet	--signet or -s
+Regtest	--regtest or -r
+```
+
+**Regtest doesn't require downloading the blockchain since you create your own private blockchain, so indexing ord is almost instantaneous.**
+
+Example
+Run bitcoind in regtest with:
+```
+bitcoind -regtest -txindex
+```
+Run ord server in regtest with:
+```
+ord --regtest server
+```
+Create a wallet in regtest with:
+```
+ord --regtest wallet create
+```
+Get a regtest receive address with:
+```
+ord --regtest wallet receive
+```
+
 
 ```
 ```
