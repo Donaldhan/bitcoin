@@ -5,6 +5,12 @@
 * 实验：学习的最佳方式是实践。在Runes上线之前，你可以在 Signet、Testnet或 Xverse 上进行实验，以便在它们可用时做好准备；
 
 
+[Taproot](https://aandds.com/blog/bitcoin-taproot.html#4a57baa0)    
+[Bitcoin Keys and Addresses](https://aandds.com/blog/bitcoin-key-addr.html#f405423b)      
+[]()  
+
+
+
 * 测试网，轻节点
 
 [搭建比特币测试网络testnet](https://github.com/youngqqcn/QBlockChainNotes/blob/master/%E6%AF%94%E7%89%B9%E5%B8%81/1-%E6%90%AD%E5%BB%BA%E6%AF%94%E7%89%B9%E5%B8%81%E6%B5%8B%E8%AF%95%E7%BD%91%E7%BB%9Ctestnet.md) 
