@@ -18,6 +18,8 @@
 [bitvm faucet](https://faucet.bitvmcn.xyz/)  
 [coinfaucet](https://coinfaucet.eu/en/btc-testnet/)   
 [bitcoinfaucet](https://bitcoinfaucet.uo1.net/)  
+[signetfaucet](https://signetfaucet.com/)  
+
 
 
 [没有BTC测试币怎么办？四大水龙头免费领tBTC](https://medium.com/@btc6540/%E6%B2%A1%E6%9C%89btc%E6%B5%8B%E8%AF%95%E5%B8%81%E6%80%8E%E4%B9%88%E5%8A%9E-%E5%9B%9B%E5%A4%A7%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%85%8D%E8%B4%B9%E9%A2%86tbtc-a3651ab12cd8)    
